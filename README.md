@@ -19,7 +19,7 @@ The Rally Slackbot application uses the input from the Slackbot to execute comma
 
 `list <project> [? iteration number]`
 
-List all stories for the current iteration. Adding the iteration parameter lists all stories for the specified iteration. Returns story ids linked to the URL, titles, and the status of each story. Querying a parent project will not return the user stories and defects of its children.
+List all stories for the current iteration. Adding the iteration parameter lists all stories for the specified iteration. Returns story ids linked to the URL, titles, estimation points, availability of parent user story for the returned story and the status of each story. Querying a parent project will not return the user stories and defects of its children.
 
 -----
 
