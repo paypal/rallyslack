@@ -1,5 +1,5 @@
 # Rally Slackbot
-![Build Status](https://travis-ci.org/paypal/rallyslack.svg?branch=master)
+[![Build Status](https://travis-ci.org/paypal/rallyslack.svg?branch=master)](https://travis-ci.org/paypal/rallyslack)
 
 Author: [Jackson Lim](https://github.com/Xerxous)
 
